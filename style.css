@@ -3,7 +3,6 @@
     margin:auto;
     width:50px;
     height:50px;
-
 }
 
 #send-container{
@@ -59,7 +58,7 @@ body{
 .left{
     float: left;
     clear:both;
-    background-color: rgb(169, 13, 231);
+    background-color: rgb(170, 13, 231);
 
 }
 
