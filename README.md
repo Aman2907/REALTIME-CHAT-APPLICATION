@@ -29,46 +29,4 @@ Database: MongoDB
 
 Authentication: JWT, bcrypt
 
-📦 Installation
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/Aman2907/REALTIME-CHAT-APPLICATION.git
-cd REALTIME-CHAT-APPLICATION
-Install dependencies for both client and server
-
-bash
-Copy
-Edit
-cd client
-npm install
-cd ../server
-npm install
-Create environment variables
-
-Create a .env file in the server directory and add the following:
-
-ini
-Copy
-Edit
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-Run the application
-
-Start the backend:
-
-bash
-Copy
-Edit
-cd server
-npm start
-Start the frontend:
-
-bash
-Copy
-Edit
-cd ../client
-npm start
