@@ -1,5 +1,8 @@
-🗨️ Allchat – Real-Time Chat Application
-Allchat is a robust real-time chat application that enables seamless communication between users. Whether it's one-on-one or group conversations, Allchat ensures a smooth and uninterrupted chatting experience with real-time updates.
+# **🗨️ Allchat – Real-Time Chat Application**
+
+**Allchat** is a robust real-time chat application that enables seamless communication between users. Whether it's one-on-one or group conversations, Allchat ensures a smooth and uninterrupted chatting experience with real-time updates.
+
+...
 
 🚀 Features
 
